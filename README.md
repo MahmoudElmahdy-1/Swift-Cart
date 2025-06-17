@@ -39,6 +39,12 @@
 
 ---
 
+## 🔎 Search & Explore
+- Dynamic **search functionality** across all products
+- Rich **product detail pages** with images, pricing, and descriptions
+
+---
+
 ### 🎨 Design & Branding
 - Modern, clean, and fully **custom UI/UX**
 - Branded with a **unique app name and logo**
@@ -48,24 +54,17 @@
 ### 🖼️ Screenshots
 
 <p float="left">
-  <img src="screenshots/HomeScreen.jpg" width="180"/>
-  <img src="screenshots/Offers%20Screen.jpg" width="180"/>
-  <img src="screenshots/Items%20Details%20Screen.jpg" width="180"/>
+  <img src="screenshots/HomeScreen.jpg" width="200"/>
+  <img src="screenshots/Offers%20Screen.jpg" width="200"/>
+  <img src="screenshots/Items%20Details%20Screen.jpg" width="200"/>
 </p>
 <p float="left">
-  <img src="screenshots/Checout%20Screen.jpg" width="180"/>
-  <img src="screenshots/Place%20Order%20Screen.jpg" width="180"/>
-  <img src="screenshots/Order%20Details%20Screen.jpg" width="180"/>
+  <img src="screenshots/Checout%20Screen.jpg" width="200"/>
+  <img src="screenshots/Place%20Order%20Screen.jpg" width="200"/>
+  <img src="screenshots/Order%20Details%20Screen.jpg" width="200"/>
 </p>
 
 ➡️ [View all screenshots](./screenshots/)
-
-
----
-
-## 🔎 Search & Explore
-- Dynamic **search functionality** across all products
-- Rich **product detail pages** with images, pricing, and descriptions
 
 ---
 
