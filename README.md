@@ -75,7 +75,8 @@
 | Frontend       | Flutter & Dart             |
 | State Management     | GetX                 |
 | Backend        | PHP                        |
-| Database       | MySQL + SharedPreferences  |
+| Database       | MySQL                      |
+| Local Storage  | SharedPreferences          |
 | Auth & Email   | PHP Mail (OTP + auth flows)|
 | Notifications  | PHP-based push system      |
 | Realtime GPS   | Custom tracking (Rider → User) |
