@@ -73,7 +73,7 @@
 | Layer           | Technology                |
 |----------------|----------------------------|
 | Frontend       | Flutter & Dart             |
-| State Mgmt     | GetX                       |
+| State Management     | GetX                       |
 | Backend        | PHP                        |
 | Database       | MySQL                      |
 | Auth & Email   | PHP Mail (OTP + auth flows)|
